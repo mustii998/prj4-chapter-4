@@ -1,0 +1,51 @@
+body{
+	background-image: url("../images/bg.jpg");
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+
+.desc{
+	border: 10px;
+	border-style: solid;
+	padding: 10px;
+	margin: auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	width: 85%;
+}
+
+#cr{
+	text-align: right;
+	font-style: italic;
+}
+
+.actors{
+	margin-left: 94px;
+	background-color: white;
+	float: left;
+	width: 40%;
+	color: black;
+}
+
+.hdngs{
+	text-align: center;
+}
+
+.trailer{
+	margin-right: 45px;
+	float: right;
+	width: 40%;
+}
+
+a:link{
+	color: green;
+	text-decoration: none;
+}
+
+a:visited{
+	color: grey; 
+	text-decoration: none;
+}
